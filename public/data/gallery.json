@@ -1,0 +1,67 @@
+{
+  "_comment": "Авто-сгенерировано из папки photo/. caption и date можно задать вручную — они сохранятся при следующей синхронизации.",
+  "photos": [
+    {
+      "id": "video-001",
+      "type": "video",
+      "src": "/assets/gallery/video_2026-02-27_06-18-55.mp4",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#B4A8C8",
+      "rotation": 2.1,
+      "aspect": "landscape",
+      "poster": ""
+    },
+    {
+      "id": "photo-002",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2026-02-27_00-06-36.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#C8B8C8",
+      "rotation": -1,
+      "aspect": "portrait"
+    },
+    {
+      "id": "photo-003",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2026-02-26_23-53-23.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#A8B4C4",
+      "rotation": 2.2,
+      "aspect": "landscape"
+    },
+    {
+      "id": "photo-004",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2026-02-27_00-06-30.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#C8C4A8",
+      "rotation": -1.7,
+      "aspect": "portrait"
+    },
+    {
+      "id": "photo-005",
+      "type": "photo",
+      "src": "/assets/gallery/photo_2026-02-27_00-06-39.jpg",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#B5C4B5",
+      "rotation": 2.9,
+      "aspect": "portrait"
+    },
+    {
+      "id": "video-006",
+      "type": "video",
+      "src": "/assets/gallery/video_2026-02-27_06-18-51.mp4",
+      "caption": "",
+      "date": "",
+      "placeholderColor": "#D4C4A0",
+      "rotation": 2.2,
+      "aspect": "landscape",
+      "poster": ""
+    }
+  ]
+}
